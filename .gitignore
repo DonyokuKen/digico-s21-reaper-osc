@@ -1,0 +1,5 @@
+__pycache__/
+build/
+dist/
+*.exe
+digico_s21_osc_config.json
